@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**karthigamuthuraj/KarthigaMuthuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Karthiga Muthuraj! 👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Senior Technical Lead at Concert IDC.
+- 🌱 I have over 12 years of experience in developing applications with Laravel and PHP.
+- 👯 I’m passionate about Full Stack development and cloud technologies.
+- 💬 Ask me about AWS development, Laravel, PHP, or anything related to Full Stack development.
+- 😄 Pronouns: She/Her
+
+## Skills
+
+- **Languages:** PHP, JavaScript
+- **Frameworks:** Laravel, Vue.js, React.js
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud Technologies:** AWS (Certified Developer), Docker
+- **Other:** RESTful APIs, Git, Agile methodologies
+
+## Get in Touch
+
+- 📫 How to reach me: [karthiga.aaru09@gmail.com](mailto:karthiga.aaru09@gmail.com)
+- LinkedIn: [karthiyayinimuthuraj]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/karthiyayinimuthuraj/))
+
