@@ -20,5 +20,5 @@
 ## Get in Touch
 
 - 📫 How to reach me: [karthiga.aaru09@gmail.com](mailto:karthiga.aaru09@gmail.com)
-- LinkedIn: [karthiyayinimuthuraj]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/karthiyayinimuthuraj/))
+- LinkedIn: https://www.linkedin.com/in/karthiyayinimuthuraj
 
