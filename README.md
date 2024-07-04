@@ -1,24 +1,43 @@
 
 # Hi there, I'm Karthiga Muthuraj! 👋
 
-## About Me
+#### **Core Technologies**
+👨‍💻 **Software Engineer** with **12+ years** of experience specializing in:
+- **Backend:** PHP, Laravel, CodeIgniter
+- **Frontend:** Angular, React JS, JavaScript
+- **Databases:** MySQL, PostgreSQL, SQLite
 
-- 🔭 I’m currently working as a Senior Technical Lead at Concert IDC.
-- 🌱 I have over 12 years of experience in developing applications with Laravel and PHP.
-- 👯 I’m passionate about Full Stack development and cloud technologies.
-- 💬 Ask me about AWS development, Laravel, PHP, or anything related to Full Stack development.
-- 😄 Pronouns: She/Her
+#### **DevOps & Cloud**
+🌐 **AWS Certified Developer Associate** proficient in:
+- AWS Services: CI/CD, ASG, Lambda, RDS
+- DevOps Tools: Ansible, Linux
 
-## Skills
+#### **Artificial Intelligence**
+🧠 **Expanding skills in AI** with a focus on:
+- Machine Learning
+- Deep Learning
+- Generative AI
 
-- **Languages:** PHP, JavaScript
-- **Frameworks:** Laravel, Vue.js, React.js
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud Technologies:** AWS (Certified Developer), Docker
-- **Other:** RESTful APIs, Git, Agile methodologies
+#### **Professional Approach**
+- **Strong Work Ethic:** Motivated and results-driven, striving for excellence.
+- **Collaborative:** Team player, eager to share knowledge and support others.
+- **Continuous Learner:** Passionate about staying updated with industry trends.
+
+#### **Personal Interests**
+🌍 **Passionate Traveler:** Enthusiastic about exploring new cultures.
+
+📚 **Lifelong Learner:** Dedicated to self-improvement through reading and learning.
 
 ## Get in Touch
-
+Let's connect and discuss how we can innovate together in software development and AI projects! 🚀
 - 📫 How to reach me: [karthiga.aaru09@gmail.com](mailto:karthiga.aaru09@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/karthiyayinimuthuraj
+
+---
+
+Feel free to explore my repositories and reach out for collaborations and discussions on software development, AI, and related technologies.
+
+
+
+
 
