@@ -2,7 +2,7 @@
 # Hi there, I'm Karthiga Muthuraj! 👋
 
 #### **Core Technologies**
-👨‍💻 **Software Engineer** with **12+ years** of experience specializing in:
+👨‍💻 **Software Engineer**  specializing in:
 - **Backend:** PHP, Laravel, CodeIgniter
 - **Frontend:** Angular, React JS, JavaScript
 - **Databases:** MySQL, PostgreSQL, SQLite
