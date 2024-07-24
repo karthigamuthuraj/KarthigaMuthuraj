@@ -18,16 +18,6 @@
 - Deep Learning
 - Generative AI
 
-#### **Professional Approach**
-- **Strong Work Ethic:** Motivated and results-driven, striving for excellence.
-- **Collaborative:** Team player, eager to share knowledge and support others.
-- **Continuous Learner:** Passionate about staying updated with industry trends.
-
-#### **Personal Interests**
-🌍 **Passionate Traveler:** Enthusiastic about exploring new cultures.
-
-📚 **Lifelong Learner:** Dedicated to self-improvement through reading and learning.
-
 ## Get in Touch
 Let's connect and discuss how we can innovate together in software development and AI projects! 🚀
 - 📫 How to reach me: [karthiga.aaru09@gmail.com](mailto:karthiga.aaru09@gmail.com)
