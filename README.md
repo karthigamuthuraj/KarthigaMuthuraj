@@ -17,6 +17,9 @@
 - Machine Learning
 - Deep Learning
 - Generative AI
+- NLP
+- LLM
+- RAG
 
 
 # 💻 Tech Stack:
