@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthiyayini Muthuraj</h1>
-<h3 align="center">Technical Architect &middot; AI/ML Engineer</h3>
+<h3 align="center">Technical Architect &middot; AI Architect </h3>
 
 <p align="center">
 <a href="https://karthigamuthuraj.github.io"><img src="https://img.shields.io/badge/Portfolio-karthigamuthuraj.github.io-6366f1?style=flat&logo=googlechrome&logoColor=white" /></a>
