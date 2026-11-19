@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthiyayini Muthuraj</h1>
-<h3 align="center">Technical Architect @ ConcertIDC &middot; AI/ML Engineer</h3>
+<h3 align="center">Technical Architect &middot; AI/ML Engineer</h3>
 
 <p align="center">
 <a href="https://karthigamuthuraj.github.io"><img src="https://img.shields.io/badge/Portfolio-karthigamuthuraj.github.io-6366f1?style=flat&logo=googlechrome&logoColor=white" /></a>
@@ -10,7 +10,7 @@
 </p>
 
 ### 💼 About Me
-- Technical Architect at **ConcertIDC** with 15+ years of software engineering experience.
+- Technical Architect with 15+ years of software engineering experience.
 - Architect and build production AI systems — RAG platforms, LLM pipelines, NL-to-SQL engines and agentic workflows — for enterprise clients.
 - Full-stack and cloud background (Laravel, React, FastAPI, AWS, Azure, GCP) — I design the architecture and ship the model, the API and the product around it.
 - Lead AI-assisted development across teams — building Claude Code skills, agents and MCP integrations, and training developers to use them day to day.
