@@ -9,6 +9,8 @@
 <a href="https://medium.com/@karthiyayini.muthuraj"><img src="https://img.shields.io/badge/Medium-articles-12100E?style=flat&logo=medium&logoColor=white" /></a>
 </p>
 
+<p align="center"><i>🔭 Currently: architecting LLM platforms and rolling out AI-assisted development across engineering teams.</i></p>
+
 ### 💼 About Me
 - Technical Architect with 15+ years of software engineering experience.
 - Architect and build production AI systems — RAG platforms, LLM pipelines, NL-to-SQL engines and agentic workflows — for enterprise clients.
@@ -27,6 +29,17 @@
 - **Databases**: PostgreSQL, MySQL, ClickHouse, MongoDB, SQLite
 - **Cloud / DevOps**: AWS, Azure, GCP, Docker, Linux, Git
 - **Leadership**: Technical leadership, Code & design reviews, Mentoring, Team AI enablement & training
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**engineering-framework**](https://github.com/karthigamuthuraj/engineering-framework) | Senior-engineering workflow framework for Claude Code & GitHub Copilot — risk-based routing between a compact mode and a full plan → validate → review → critic workflow, with specialist skills, agents and templates. | Claude Code, Copilot, Agents, Skills |
+| [**ai-qa-test-case-generator**](https://github.com/karthigamuthuraj/ai-qa-test-case-generator) | Multi-agent app that turns user stories into functional, regression, integration, performance and security test cases, exportable to CSV. | AutoGen, Ollama (Llama 3.2), Streamlit |
+| [**audio-transcription-speaker-diarization**](https://github.com/karthigamuthuraj/audio-transcription-speaker-diarization) | Multilingual speech-to-text with language detection and speaker labels. | Whisper, PyAnnote, Streamlit |
+| [**AI-Projects**](https://github.com/karthigamuthuraj/AI-Projects) | Collection of ML, deep learning, NLP and data science projects. | Python, TensorFlow, Jupyter |
 
 ---
 
@@ -55,7 +68,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthigamuthuraj&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=karthigamuthuraj&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthigamuthuraj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
