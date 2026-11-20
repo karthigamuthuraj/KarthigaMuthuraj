@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-pro.svg" alt="Karthiyayini Muthuraj — Technical Architect, Agentic AI & LLM Systems" width="100%" />
+  <img src="assets/banner-v3.svg" alt="Karthiyayini Muthuraj — Technical Architect, Agentic AI & LLM Systems" width="100%" />
 </p>
 
 <p align="center">
