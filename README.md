@@ -24,50 +24,53 @@ Most of that code is private. What you'll find here is the work I can share.
 
 ## Things I built
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/karthigamuthuraj/claude-sdlc-plugin"><img src="assets/projects/claude-sdlc-plugin.svg" width="100%" /></a>
-<h3><a href="https://github.com/karthigamuthuraj/claude-sdlc-plugin">Claude SDLC Plugin</a></h3>
-Runs a developer's whole lifecycle on one Jira ticket: pickup, root cause, design, build, verify, PR, review and QA handover. Claude drafts; people approve by typing a line, and hooks block unsafe git commands and secret files.
-<br/><br/><sub>Claude Code · MCP · Jira · Node 18 · 18 skills · 5 tracks</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/karthigamuthuraj/smartform-ai"><img src="assets/projects/smartform-ai.svg" width="100%" /></a>
-<h3><a href="https://github.com/karthigamuthuraj/smartform-ai">SmartForm AI</a></h3>
-Fills any PDF form from a plain-English description. Static PDFs become fillable, Document Intelligence labels every field, GPT-4o maps the input, and each step is validated before the next one runs.
-<br/><br/><sub>Azure OpenAI · Azure Document Intelligence · Flask · PyMuPDF</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/karthigamuthuraj/ai-qa-test-case-generator"><img src="assets/projects/ai-qa-test-case-generator.svg" width="100%" /></a>
-<h3><a href="https://github.com/karthigamuthuraj/ai-qa-test-case-generator">QA Test Case Generator</a></h3>
-Agents read a user story and write functional, regression, integration, performance and security test cases, ready to export as CSV. Runs fully local on Llama 3.2.
-<br/><br/><sub>AutoGen · Ollama · Llama 3.2 · Streamlit</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/karthigamuthuraj/audio-transcription-speaker-diarization"><img src="assets/projects/audio-transcription-speaker-diarization.svg" width="100%" /></a>
-<h3><a href="https://github.com/karthigamuthuraj/audio-transcription-speaker-diarization">Speaker Diarization</a></h3>
-Multilingual transcription that detects the language and labels who said what in every segment.
-<br/><br/><sub>Whisper · PyAnnote · Streamlit</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/karthigamuthuraj/Automated-Video-Summarization"><img src="assets/projects/automated-video-summarization.svg" width="100%" /></a>
-<h3><a href="https://github.com/karthigamuthuraj/Automated-Video-Summarization">Video Summarizer</a></h3>
-Pulls the audio from a video, transcribes it, summarizes it with Hugging Face models and marks scene changes.
-<br/><br/><sub>Whisper · Hugging Face · Streamlit</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/karthigamuthuraj/AI-Projects"><img src="assets/projects/ai-projects.svg" width="100%" /></a>
-<h3><a href="https://github.com/karthigamuthuraj/AI-Projects">AI Projects Lab</a></h3>
+### [Claude SDLC Plugin](https://github.com/karthigamuthuraj/claude-sdlc-plugin)
+
+A Claude Code plugin that runs a developer's whole lifecycle on one Jira ticket. Claude drafts the root cause, design and code; a person approves each gate by typing a line, and hooks block unsafe git commands and secret files.
+
+<a href="https://github.com/karthigamuthuraj/claude-sdlc-plugin"><img src="assets/projects/claude-sdlc-plugin.svg" width="100%" alt="Claude SDLC Plugin architecture" /></a>
+
+<sub>Claude Code · MCP · Jira · Node 18</sub>
+
+### [SmartForm AI](https://github.com/karthigamuthuraj/smartform-ai)
+
+Fills any PDF form from a plain-English description — no per-form field mapping. Static PDFs become fillable, Document Intelligence labels the fields, and GPT-4o maps the user's data onto them.
+
+<a href="https://github.com/karthigamuthuraj/smartform-ai"><img src="assets/projects/smartform-ai.svg" width="100%" alt="SmartForm AI architecture" /></a>
+
+<sub>Azure OpenAI · Azure Document Intelligence · Flask · PyMuPDF</sub>
+
+### [QA Test Case Generator](https://github.com/karthigamuthuraj/ai-qa-test-case-generator)
+
+AutoGen agents turn a user story into functional, regression, integration, performance and security test cases, exported as CSV. Runs fully local.
+
+<a href="https://github.com/karthigamuthuraj/ai-qa-test-case-generator"><img src="assets/projects/ai-qa-test-case-generator.svg" width="100%" alt="QA Test Case Generator architecture" /></a>
+
+<sub>AutoGen · Ollama · Llama 3.2 · Streamlit</sub>
+
+### [Speaker Diarization](https://github.com/karthigamuthuraj/audio-transcription-speaker-diarization)
+
+Multilingual transcription that detects the language and labels who said what.
+
+<a href="https://github.com/karthigamuthuraj/audio-transcription-speaker-diarization"><img src="assets/projects/audio-transcription-speaker-diarization.svg" width="100%" alt="Speaker Diarization architecture" /></a>
+
+<sub>Whisper · PyAnnote · Streamlit</sub>
+
+### [Video Summarizer](https://github.com/karthigamuthuraj/Automated-Video-Summarization)
+
+Transcribes a long video, summarizes it and marks the scene changes.
+
+<a href="https://github.com/karthigamuthuraj/Automated-Video-Summarization"><img src="assets/projects/automated-video-summarization.svg" width="100%" alt="Video Summarizer architecture" /></a>
+
+<sub>Whisper · Hugging Face · Streamlit</sub>
+
+### [AI Projects Lab](https://github.com/karthigamuthuraj/AI-Projects)
+
 Machine learning, deep learning, NLP and data-science notebooks — the foundations under the LLM work.
-<br/><br/><sub>Python · TensorFlow · Jupyter</sub>
-</td>
-</tr>
-</table>
+
+<a href="https://github.com/karthigamuthuraj/AI-Projects"><img src="assets/projects/ai-projects.svg" width="100%" alt="AI Projects Lab architecture" /></a>
+
+<sub>Python · TensorFlow · Jupyter</sub>
 
 ## How I build
 
