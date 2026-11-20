@@ -11,15 +11,16 @@
 
 ## Hi, I'm Karthiyayini
 
-I'm a Technical Architect at **ConcertIDC** with 15+ years of building software. I design AI systems and I still write the code that ships them.
+I'm a Technical Architect with 15+ years of building software. I design AI systems and I still write the code that ships them.
 
-At work I take Generative AI features from idea to production for enterprise clients:
+What I work on:
 
-- **An LLM "brain" for BloomifAI** — agent workflows, automatic form filling and report generation behind a React frontend and a Python API
-- **Izzy AI for Innova Zones** — ask a question in plain English, get the SQL and the report (Vanna SDK + ChromaDB), inside a Laravel + Angular product I also upgraded to Laravel 13 and Angular 22
-- **AI-assisted development for my teams** — Claude Code skills, agents and MCP integrations, plus the workshops that get developers using them every day
+- **LLM platforms and agent workflows** — the AI "brain" behind products: agents, automatic form filling, report generation and RAG over company documents
+- **Natural language to SQL** — ask a question in plain English, get the query and the report (Vanna SDK, ChromaDB)
+- **Full-stack products around the AI** — Python and FastAPI APIs, Laravel and Angular/React apps, including large legacy upgrades
+- **AI-assisted development for teams** — Claude Code skills, agents and MCP integrations, plus the training that gets developers using them every day
 
-That client code is private. What you'll find here is the work I can share.
+Most of that code is private. What you'll find here is the work I can share.
 
 ## Things I built
 
