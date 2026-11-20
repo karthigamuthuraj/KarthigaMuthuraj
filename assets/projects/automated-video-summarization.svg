@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a1a05"/><stop offset="1" stop-color="#451a03"/></linearGradient></defs>
+<rect width="800" height="420" rx="14" fill="url(#g)"/>
+<text x="40" y="54" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" fill="#fbbf24" letter-spacing="2.5">VIDEO · NLP</text>
+<text x="40" y="108" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="800" fill="#ffffff">Video Summarizer</text>
+<text x="40" y="146" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#e2e8f0">Extracts audio, transcribes, summarizes and</text>
+<text x="40" y="173" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#e2e8f0">detects scene changes in long videos.</text>
+<rect x="40" y="250" width="158" height="76" rx="9" fill="#ffffff" fill-opacity=".08" stroke="#fbbf24" stroke-opacity=".55"/>
+<text x="54" y="272" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#fbbf24">01</text>
+<text x="54" y="295" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">Video</text>
+<text x="54" y="315" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#cbd5e1">extract audio</text>
+<path d="M202 288 l18 0 m-6 -6 l6 6 l-6 6" stroke="#fbbf24" stroke-width="2" fill="none"/>
+<rect x="228" y="250" width="158" height="76" rx="9" fill="#ffffff" fill-opacity=".08" stroke="#fbbf24" stroke-opacity=".55"/>
+<text x="242" y="272" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#fbbf24">02</text>
+<text x="242" y="295" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">Whisper</text>
+<text x="242" y="315" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#cbd5e1">transcribe</text>
+<path d="M390 288 l18 0 m-6 -6 l6 6 l-6 6" stroke="#fbbf24" stroke-width="2" fill="none"/>
+<rect x="415" y="250" width="158" height="76" rx="9" fill="#ffffff" fill-opacity=".08" stroke="#fbbf24" stroke-opacity=".55"/>
+<text x="429" y="272" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#fbbf24">03</text>
+<text x="429" y="295" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">HF models</text>
+<text x="429" y="315" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#cbd5e1">summarize</text>
+<path d="M578 288 l18 0 m-6 -6 l6 6 l-6 6" stroke="#fbbf24" stroke-width="2" fill="none"/>
+<rect x="602" y="250" width="158" height="76" rx="9" fill="#ffffff" fill-opacity=".08" stroke="#fbbf24" stroke-opacity=".55"/>
+<text x="616" y="272" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#fbbf24">04</text>
+<text x="616" y="295" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">Scenes</text>
+<text x="616" y="315" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#cbd5e1">detect cuts</text>
+<rect x="40" y="356" width="81" height="28" rx="14" fill="#fbbf24" fill-opacity=".18" stroke="#fbbf24" stroke-opacity=".6"/>
+<text x="52" y="375" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#ffffff">Whisper</text>
+<rect x="131" y="356" width="122" height="28" rx="14" fill="#fbbf24" fill-opacity=".18" stroke="#fbbf24" stroke-opacity=".6"/>
+<text x="143" y="375" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#ffffff">Hugging Face</text>
+<rect x="264" y="356" width="98" height="28" rx="14" fill="#fbbf24" fill-opacity=".18" stroke="#fbbf24" stroke-opacity=".6"/>
+<text x="276" y="375" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#ffffff">Streamlit</text>
+</svg>
