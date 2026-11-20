@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1029"/><stop offset="1" stop-color="#1e1b4b"/></linearGradient>
+ <linearGradient id="acc" x1="0" x2="1"><stop offset="0" stop-color="#6366f1"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#6366f1" opacity=".18"/></pattern>
+</defs>
+<rect width="1200" height="340" fill="url(#bg)"/>
+<rect x="760" width="440" height="340" fill="url(#dots)"/>
+<rect width="1200" height="6" fill="url(#acc)"/>
+<g transform="translate(75,10)"><g stroke="#6366f1" stroke-opacity=".55" stroke-width="1.5" fill="none">
+ <path d="M890 110 L990 70 L1090 120 L1010 200 L900 220 Z"/><path d="M990 70 L1010 200 M890 110 L1090 120 M900 220 L1100 250 L1090 120"/>
+</g>
+<g fill="#a5b4fc"><circle cx="890" cy="110" r="6"/><circle cx="990" cy="70" r="6"/><circle cx="1090" cy="120" r="6"/><circle cx="1100" cy="250" r="5"/><circle cx="900" cy="220" r="5"/></g>
+<circle cx="1010" cy="200" r="11" fill="#22d3ee"/></g>
+<text x="70" y="118" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="58" font-weight="800" fill="#ffffff" letter-spacing="1">KARTHIYAYINI MUTHURAJ</text>
+<text x="72" y="168" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="600" fill="url(#acc)">Technical Architect · Agentic AI &amp; LLM Systems</text>
+<text x="72" y="216" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" fill="#cbd5e1">I design the architecture — and ship the model, the API and the product around it.</text>
+<text x="72" y="276" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="15" fill="#94a3b8" letter-spacing="2">CHENNAI  ·  15+ YEARS BUILDING SOFTWARE  ·  AWS CERTIFIED DEVELOPER</text>
+</svg>
