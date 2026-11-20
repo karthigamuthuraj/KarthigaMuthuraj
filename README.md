@@ -1,86 +1,105 @@
-<h1 align="center">Hi 👋, I'm Karthiyayini Muthuraj</h1>
-<h3 align="center">Technical Architect &middot; AI Architect </h3>
-
 <p align="center">
-<a href="https://karthigamuthuraj.github.io"><img src="https://img.shields.io/badge/Portfolio-karthigamuthuraj.github.io-6366f1?style=flat&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/karthiyayinimuthuraj/"><img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:karthiyayinimuthuraj@gmail.com"><img src="https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://huggingface.co/karthigamuthuraj"><img src="https://img.shields.io/badge/HuggingFace-profile-FFD21E?style=flat&logo=huggingface&logoColor=black" /></a>
-<a href="https://medium.com/@karthiyayini.muthuraj"><img src="https://img.shields.io/badge/Medium-articles-12100E?style=flat&logo=medium&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>🔭 Currently: architecting LLM platforms and rolling out AI-assisted development across engineering teams.</i></p>
-
-### 💼 About Me
-- Technical Architect with 15+ years of software engineering experience.
-- Architect and build production AI systems — RAG platforms, LLM pipelines, NL-to-SQL engines and agentic workflows — for enterprise clients.
-- Full-stack and cloud background (Laravel, React, FastAPI, AWS, Azure, GCP) — I design the architecture and ship the model, the API and the product around it.
-- Lead AI-assisted development across teams — building Claude Code skills, agents and MCP integrations, and training developers to use them day to day.
-- AWS Certified Developer — Associate.
-- Actively deepening Agentic AI, RAG evaluation and hallucination-grounding techniques.
-
-### 🧠 Skills
-- **AI / ML**: LLMs & Generative AI, RAG, LangChain, Prompt Engineering, NLP, Deep Learning, Machine Learning, Embeddings & Vector Search (Qdrant, ChromaDB), Document AI, Text-to-SQL (Vanna AI SDK, WAII SDK)
-- **Agentic AI**: AI Agents, Model Context Protocol (MCP), Claude Code (skills, sub-agents, hooks), Tool calling, AI-assisted development workflows
-- **AI Platforms**: Anthropic Claude, Azure OpenAI, OpenAI, Ollama, Hugging Face, Azure Document Intelligence
-- **Architecture**: Solution & system design, Microservices, API design, Event-driven / async processing, Cloud architecture
-- **Backend**: Python, FastAPI, Flask, PHP, Laravel, CodeIgniter, REST APIs, Redis/async workers, GraphQL
-- **Frontend**: React, Angular, JavaScript
-- **Databases**: PostgreSQL, MySQL, ClickHouse, MongoDB, SQLite
-- **Cloud / DevOps**: AWS, Azure, GCP, Docker, Linux, Git
-- **Leadership**: Technical leadership, Code & design reviews, Mentoring, Team AI enablement & training
-
----
-
-### 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**engineering-framework**](https://github.com/karthigamuthuraj/engineering-framework) | Senior-engineering workflow framework for Claude Code & GitHub Copilot — risk-based routing between a compact mode and a full plan → validate → review → critic workflow, with specialist skills, agents and templates. | Claude Code, Copilot, Agents, Skills |
-| [**ai-qa-test-case-generator**](https://github.com/karthigamuthuraj/ai-qa-test-case-generator) | Multi-agent app that turns user stories into functional, regression, integration, performance and security test cases, exportable to CSV. | AutoGen, Ollama (Llama 3.2), Streamlit |
-| [**audio-transcription-speaker-diarization**](https://github.com/karthigamuthuraj/audio-transcription-speaker-diarization) | Multilingual speech-to-text with language detection and speaker labels. | Whisper, PyAnnote, Streamlit |
-| [**AI-Projects**](https://github.com/karthigamuthuraj/AI-Projects) | Collection of ML, deep learning, NLP and data science projects. | Python, TensorFlow, Jupyter |
-
----
-
-### 🧰 Tech Stack
-
-**AI / LLM**
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-**Agentic AI**
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI_Agents-6366F1?style=flat&logo=robotframework&logoColor=white)
-
-**Languages & Backend**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/angular-DD0031?style=flat&logo=angular&logoColor=white)
-
-**Data & Vector Stores**
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white) ![ClickHouse](https://img.shields.io/badge/clickhouse-FFCC01?style=flat&logo=clickhouse&logoColor=black) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat&logoColor=white)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-F05033?style=flat&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://streak-stats.demolab.com/?user=karthigamuthuraj&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthigamuthuraj&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-<a href="https://karthigamuthuraj.github.io">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/karthiyayinimuthuraj/">LinkedIn</a> ·
-<a href="https://medium.com/@karthiyayini.muthuraj">Medium</a> ·
-<a href="https://huggingface.co/karthigamuthuraj">Hugging Face</a>
+  <img src="assets/banner.svg" alt="Karthiyayini Muthuraj — Technical Architect, Agentic AI & LLM Systems" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=karthigamuthuraj&color=6366f1&style=flat&label=Profile+Views" />
+  <a href="https://karthigamuthuraj.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-karthigamuthuraj.github.io-6366f1?style=for-the-badge&labelColor=1e1b4b" /></a>
+  <a href="https://www.linkedin.com/in/karthiyayinimuthuraj/"><img src="https://img.shields.io/badge/LINKEDIN-karthiyayinimuthuraj-0A66C2?style=for-the-badge&labelColor=1e1b4b" /></a>
+  <a href="https://medium.com/@karthiyayini.muthuraj"><img src="https://img.shields.io/badge/MEDIUM-articles-ffffff?style=for-the-badge&labelColor=1e1b4b" /></a>
+  <a href="https://huggingface.co/karthigamuthuraj"><img src="https://img.shields.io/badge/HUGGING_FACE-profile-FFD21E?style=for-the-badge&labelColor=1e1b4b" /></a>
 </p>
+
+## Hi, I'm Karthiyayini
+
+I'm a Technical Architect at **ConcertIDC** with 15+ years of building software. I design AI systems and I still write the code that ships them.
+
+At work I take Generative AI features from idea to production for enterprise clients:
+
+- **An LLM "brain" for BloomifAI** — agent workflows, automatic form filling and report generation behind a React frontend and a Python API
+- **Izzy AI for Innova Zones** — ask a question in plain English, get the SQL and the report (Vanna SDK + ChromaDB), inside a Laravel + Angular product I also upgraded to Laravel 13 and Angular 22
+- **AI-assisted development for my teams** — Claude Code skills, agents and MCP integrations, plus the workshops that get developers using them every day
+
+That client code is private. What you'll find here is the work I can share.
+
+## Things I built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/karthigamuthuraj/claude-sdlc-plugin"><img src="assets/projects/claude-sdlc-plugin.svg" width="100%" /></a>
+<h3><a href="https://github.com/karthigamuthuraj/claude-sdlc-plugin">Claude SDLC Plugin</a></h3>
+Runs a developer's whole lifecycle on one Jira ticket: pickup, root cause, design, build, verify, PR, review and QA handover. Claude drafts; people approve by typing a line, and hooks block unsafe git commands and secret files.
+<br/><br/><sub>Claude Code · MCP · Jira · Node 18 · 18 skills · 5 tracks</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/karthigamuthuraj/smartform-ai"><img src="assets/projects/smartform-ai.svg" width="100%" /></a>
+<h3><a href="https://github.com/karthigamuthuraj/smartform-ai">SmartForm AI</a></h3>
+Fills any PDF form from a plain-English description. Static PDFs become fillable, Document Intelligence labels every field, GPT-4o maps the input, and each step is validated before the next one runs.
+<br/><br/><sub>Azure OpenAI · Azure Document Intelligence · Flask · PyMuPDF</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/karthigamuthuraj/ai-qa-test-case-generator"><img src="assets/projects/ai-qa-test-case-generator.svg" width="100%" /></a>
+<h3><a href="https://github.com/karthigamuthuraj/ai-qa-test-case-generator">QA Test Case Generator</a></h3>
+Agents read a user story and write functional, regression, integration, performance and security test cases, ready to export as CSV. Runs fully local on Llama 3.2.
+<br/><br/><sub>AutoGen · Ollama · Llama 3.2 · Streamlit</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/karthigamuthuraj/audio-transcription-speaker-diarization"><img src="assets/projects/audio-transcription-speaker-diarization.svg" width="100%" /></a>
+<h3><a href="https://github.com/karthigamuthuraj/audio-transcription-speaker-diarization">Speaker Diarization</a></h3>
+Multilingual transcription that detects the language and labels who said what in every segment.
+<br/><br/><sub>Whisper · PyAnnote · Streamlit</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/karthigamuthuraj/Automated-Video-Summarization"><img src="assets/projects/automated-video-summarization.svg" width="100%" /></a>
+<h3><a href="https://github.com/karthigamuthuraj/Automated-Video-Summarization">Video Summarizer</a></h3>
+Pulls the audio from a video, transcribes it, summarizes it with Hugging Face models and marks scene changes.
+<br/><br/><sub>Whisper · Hugging Face · Streamlit</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/karthigamuthuraj/AI-Projects"><img src="assets/projects/ai-projects.svg" width="100%" /></a>
+<h3><a href="https://github.com/karthigamuthuraj/AI-Projects">AI Projects Lab</a></h3>
+Machine learning, deep learning, NLP and data-science notebooks — the foundations under the LLM work.
+<br/><br/><sub>Python · TensorFlow · Jupyter</sub>
+</td>
+</tr>
+</table>
+
+## How I build
+
+- **Architecture first.** Clear boundaries between the UI, the API and the LLM layer, so each can change without breaking the others.
+- **The model drafts. Code checks.** Every LLM step has a validation step after it before anything reaches a user.
+- **People approve what matters.** Commits, merges, status changes and risky changes wait for a human.
+- **AI is a team skill.** A tool only counts once the whole team uses it day to day, so I build the skills and run the training.
+
+## Tools I work with
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-5C2D91?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<sub>Before AI, I spent over a decade building PHP and full-stack products with Laravel, CodeIgniter, React and Angular. That's why I treat the API, the data and the integrations as part of the AI system, not an afterthought. AWS Certified Developer — Associate.</sub>
